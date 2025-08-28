@@ -1,0 +1,3192 @@
+{
+    "久": {
+        "kanji": "久",
+        "kun_readings": [
+            "ひさ.しい"
+        ],
+        "on_readings": [
+            "キュウ",
+            "ク"
+        ],
+        "meanings": [
+            "long time",
+            "old story"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "仏": {
+        "kanji": "仏",
+        "kun_readings": [
+            "ほとけ"
+        ],
+        "on_readings": [
+            "フツ",
+            "ブツ"
+        ],
+        "meanings": [
+            "Buddha",
+            "France",
+            "the dead"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "仮": {
+        "kanji": "仮",
+        "kun_readings": [
+            "かり",
+            "かり-"
+        ],
+        "on_readings": [
+            "カ",
+            "ケ"
+        ],
+        "meanings": [
+            "assumed (name)",
+            "informal",
+            "interim",
+            "sham",
+            "temporary"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "件": {
+        "kanji": "件",
+        "kun_readings": [
+            "くだん"
+        ],
+        "on_readings": [
+            "ケン"
+        ],
+        "meanings": [
+            "affair",
+            "case",
+            "item",
+            "matter"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "任": {
+        "kanji": "任",
+        "kun_readings": [
+            "まか.す",
+            "まか.せる"
+        ],
+        "on_readings": [
+            "ニン"
+        ],
+        "meanings": [
+            "appoint",
+            "duty",
+            "entrust to",
+            "responsibility",
+            "term"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "似": {
+        "kanji": "似",
+        "kun_readings": [
+            "に.る",
+            "ひ.る"
+        ],
+        "on_readings": [
+            "ジ"
+        ],
+        "meanings": [
+            "becoming",
+            "counterfeit",
+            "imitate",
+            "resemble",
+            "suitable"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "余": {
+        "kanji": "余",
+        "kun_readings": [
+            "あま.す",
+            "あま.り",
+            "あま.る",
+            "あんま.り"
+        ],
+        "on_readings": [
+            "ヨ"
+        ],
+        "meanings": [
+            "myself",
+            "other",
+            "remainder",
+            "surplus",
+            "too much"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "価": {
+        "kanji": "価",
+        "kun_readings": [
+            "あたい"
+        ],
+        "on_readings": [
+            "カ",
+            "ケ"
+        ],
+        "meanings": [
+            "price",
+            "value"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "保": {
+        "kanji": "保",
+        "kun_readings": [
+            "たも.つ"
+        ],
+        "on_readings": [
+            "ホ",
+            "ホウ"
+        ],
+        "meanings": [
+            "guarantee",
+            "keep",
+            "preserve",
+            "protect",
+            "support",
+            "sustain"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "修": {
+        "kanji": "修",
+        "kun_readings": [
+            "おさ.まる",
+            "おさ.める"
+        ],
+        "on_readings": [
+            "シュ",
+            "シュウ"
+        ],
+        "meanings": [
+            "conduct oneself well",
+            "discipline",
+            "master",
+            "study"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "俵": {
+        "kanji": "俵",
+        "kun_readings": [
+            "たわら"
+        ],
+        "on_readings": [
+            "ヒョウ"
+        ],
+        "meanings": [
+            "bag",
+            "bale",
+            "counter for bags",
+            "sack"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "個": {
+        "kanji": "個",
+        "kun_readings": [],
+        "on_readings": [
+            "カ",
+            "コ"
+        ],
+        "meanings": [
+            "counter for articles",
+            "individual"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "備": {
+        "kanji": "備",
+        "kun_readings": [
+            "そな.える",
+            "そな.わる",
+            "つぶさ.に"
+        ],
+        "on_readings": [
+            "ビ"
+        ],
+        "meanings": [
+            "equip",
+            "preparation",
+            "provision"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "像": {
+        "kanji": "像",
+        "kun_readings": [],
+        "on_readings": [
+            "ゾウ"
+        ],
+        "meanings": [
+            "figure",
+            "image",
+            "picture",
+            "portrait",
+            "statue"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "再": {
+        "kanji": "再",
+        "kun_readings": [
+            "ふたた.び"
+        ],
+        "on_readings": [
+            "サ",
+            "サイ"
+        ],
+        "meanings": [
+            "again",
+            "second time",
+            "twice"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "刊": {
+        "kanji": "刊",
+        "kun_readings": [],
+        "on_readings": [
+            "カン"
+        ],
+        "meanings": [
+            "carve",
+            "engrave",
+            "publish"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "判": {
+        "kanji": "判",
+        "kun_readings": [
+            "わか.る"
+        ],
+        "on_readings": [
+            "ハン",
+            "バン"
+        ],
+        "meanings": [
+            "judgement",
+            "judgment",
+            "seal",
+            "signature",
+            "stamp"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "制": {
+        "kanji": "制",
+        "kun_readings": [],
+        "on_readings": [
+            "セイ"
+        ],
+        "meanings": [
+            "law",
+            "rule",
+            "system"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "券": {
+        "kanji": "券",
+        "kun_readings": [],
+        "on_readings": [
+            "ケン"
+        ],
+        "meanings": [
+            "ticket"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "則": {
+        "kanji": "則",
+        "kun_readings": [
+            "すなわち",
+            "のっと.る",
+            "のり"
+        ],
+        "on_readings": [
+            "ソク"
+        ],
+        "meanings": [
+            "based on",
+            "follow",
+            "law",
+            "model after",
+            "rule"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "効": {
+        "kanji": "効",
+        "kun_readings": [
+            "き.く",
+            "ききめ",
+            "なら.う"
+        ],
+        "on_readings": [
+            "コウ"
+        ],
+        "meanings": [
+            "benefit",
+            "efficacy",
+            "efficiency",
+            "merit"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "務": {
+        "kanji": "務",
+        "kun_readings": [
+            "つと.める"
+        ],
+        "on_readings": [
+            "ム"
+        ],
+        "meanings": [
+            "duties",
+            "task"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "勢": {
+        "kanji": "勢",
+        "kun_readings": [
+            "いきお.い",
+            "はずみ"
+        ],
+        "on_readings": [
+            "セイ",
+            "ゼイ"
+        ],
+        "meanings": [
+            "energy",
+            "forces",
+            "military strength"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "厚": {
+        "kanji": "厚",
+        "kun_readings": [
+            "あか",
+            "あつ.い"
+        ],
+        "on_readings": [
+            "コウ"
+        ],
+        "meanings": [
+            "brazen",
+            "cordial",
+            "heavy",
+            "kind",
+            "rich",
+            "shameless",
+            "thick"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "句": {
+        "kanji": "句",
+        "kun_readings": [],
+        "on_readings": [
+            "ク"
+        ],
+        "meanings": [
+            "clause",
+            "counter for haiku",
+            "paragraph",
+            "passage",
+            "phrase",
+            "sentence"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "可": {
+        "kanji": "可",
+        "kun_readings": [
+            "-べ.き",
+            "-べ.し"
+        ],
+        "on_readings": [
+            "カ",
+            "コク"
+        ],
+        "meanings": [
+            "can",
+            "do not",
+            "mustn't",
+            "passable",
+            "should not"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "営": {
+        "kanji": "営",
+        "kun_readings": [
+            "いとな.み",
+            "いとな.む"
+        ],
+        "on_readings": [
+            "エイ"
+        ],
+        "meanings": [
+            "build",
+            "camp",
+            "conduct (business)",
+            "perform"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "因": {
+        "kanji": "因",
+        "kun_readings": [
+            "ちな.む",
+            "よ.る"
+        ],
+        "on_readings": [
+            "イン"
+        ],
+        "meanings": [
+            "be associated with",
+            "be limited to",
+            "cause",
+            "depend on",
+            "factor"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "団": {
+        "kanji": "団",
+        "kun_readings": [
+            "かたまり",
+            "まる.い"
+        ],
+        "on_readings": [
+            "ダン",
+            "トン"
+        ],
+        "meanings": [
+            "association",
+            "group"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "圧": {
+        "kanji": "圧",
+        "kun_readings": [
+            "お.さえる",
+            "お.す",
+            "おさ.える",
+            "へ.す"
+        ],
+        "on_readings": [
+            "アツ",
+            "エン",
+            "オウ"
+        ],
+        "meanings": [
+            "dominate",
+            "oppress",
+            "overwhelm",
+            "pressure",
+            "push"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "在": {
+        "kanji": "在",
+        "kun_readings": [
+            "あ.る"
+        ],
+        "on_readings": [
+            "ザイ"
+        ],
+        "meanings": [
+            "exist",
+            "located in",
+            "outskirts",
+            "suburbs"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "均": {
+        "kanji": "均",
+        "kun_readings": [
+            "なら.す"
+        ],
+        "on_readings": [
+            "キン"
+        ],
+        "meanings": [
+            "average",
+            "level"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "基": {
+        "kanji": "基",
+        "kun_readings": [
+            "もと",
+            "もとい"
+        ],
+        "on_readings": [
+            "キ"
+        ],
+        "meanings": [
+            "counter for machines",
+            "foundation",
+            "fundamentals",
+            "radical (chem)"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "報": {
+        "kanji": "報",
+        "kun_readings": [
+            "むく.いる"
+        ],
+        "on_readings": [
+            "ホウ"
+        ],
+        "meanings": [
+            "news",
+            "report",
+            "retribution",
+            "reward"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "境": {
+        "kanji": "境",
+        "kun_readings": [
+            "さかい"
+        ],
+        "on_readings": [
+            "キョウ",
+            "ケイ"
+        ],
+        "meanings": [
+            "border",
+            "boundary",
+            "region"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "墓": {
+        "kanji": "墓",
+        "kun_readings": [
+            "はか"
+        ],
+        "on_readings": [
+            "ボ"
+        ],
+        "meanings": [
+            "grave",
+            "tomb"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "増": {
+        "kanji": "増",
+        "kun_readings": [
+            "ふ.える",
+            "ふ.やす",
+            "ま.し",
+            "ま.す"
+        ],
+        "on_readings": [
+            "ゾウ"
+        ],
+        "meanings": [
+            "add",
+            "augment",
+            "gain",
+            "increase",
+            "promote"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "夢": {
+        "kanji": "夢",
+        "kun_readings": [
+            "くら.い",
+            "ゆめ",
+            "ゆめ.みる"
+        ],
+        "on_readings": [
+            "ボウ",
+            "ム"
+        ],
+        "meanings": [
+            "dream",
+            "illusion",
+            "vision"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "妻": {
+        "kanji": "妻",
+        "kun_readings": [
+            "つま"
+        ],
+        "on_readings": [
+            "サイ"
+        ],
+        "meanings": [
+            "spouse",
+            "wife"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "婦": {
+        "kanji": "婦",
+        "kun_readings": [
+            "よめ"
+        ],
+        "on_readings": [
+            "フ"
+        ],
+        "meanings": [
+            "bride",
+            "lady",
+            "wife",
+            "woman"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "容": {
+        "kanji": "容",
+        "kun_readings": [
+            "い.れる"
+        ],
+        "on_readings": [
+            "ヨウ"
+        ],
+        "meanings": [
+            "contain",
+            "form",
+            "looks"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "寄": {
+        "kanji": "寄",
+        "kun_readings": [
+            "-よ.り",
+            "よ.せる",
+            "よ.る"
+        ],
+        "on_readings": [
+            "キ"
+        ],
+        "meanings": [
+            "bring near",
+            "collect",
+            "draw near",
+            "forward",
+            "gather",
+            "send",
+            "stop in"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "富": {
+        "kanji": "富",
+        "kun_readings": [
+            "と.む",
+            "とみ"
+        ],
+        "on_readings": [
+            "フ",
+            "フウ"
+        ],
+        "meanings": [
+            "abundant",
+            "enrich",
+            "wealth"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "導": {
+        "kanji": "導",
+        "kun_readings": [
+            "みちび.く"
+        ],
+        "on_readings": [
+            "ドウ"
+        ],
+        "meanings": [
+            "conduct",
+            "guidance",
+            "leading",
+            "usher"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "居": {
+        "kanji": "居",
+        "kun_readings": [
+            "-い",
+            "い.る",
+            "お.る"
+        ],
+        "on_readings": [
+            "キョ",
+            "コ"
+        ],
+        "meanings": [
+            "exist",
+            "live with",
+            "reside",
+            "to be"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "属": {
+        "kanji": "属",
+        "kun_readings": [
+            "さかん",
+            "つく",
+            "やから"
+        ],
+        "on_readings": [
+            "ショク",
+            "ゾク"
+        ],
+        "meanings": [
+            "affiliated",
+            "belong",
+            "genus",
+            "subordinate official"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "布": {
+        "kanji": "布",
+        "kun_readings": [
+            "きれ",
+            "し.く",
+            "ぬの"
+        ],
+        "on_readings": [
+            "フ",
+            "ホ"
+        ],
+        "meanings": [
+            "cloth",
+            "distribute",
+            "linen",
+            "spread"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "師": {
+        "kanji": "師",
+        "kun_readings": [
+            "いくさ"
+        ],
+        "on_readings": [
+            "シ"
+        ],
+        "meanings": [
+            "army (incl. counter)",
+            "exemplar",
+            "expert",
+            "master",
+            "model",
+            "teacher",
+            "war"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "常": {
+        "kanji": "常",
+        "kun_readings": [
+            "つね",
+            "とこ-"
+        ],
+        "on_readings": [
+            "ジョウ"
+        ],
+        "meanings": [
+            "always",
+            "common",
+            "continually",
+            "long-lasting",
+            "normal",
+            "ordinary",
+            "regular",
+            "usual"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "幹": {
+        "kanji": "幹",
+        "kun_readings": [
+            "みき"
+        ],
+        "on_readings": [
+            "カン"
+        ],
+        "meanings": [
+            "capability",
+            "main part",
+            "talent",
+            "tree trunk"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "序": {
+        "kanji": "序",
+        "kun_readings": [
+            "つい.で",
+            "ついで"
+        ],
+        "on_readings": [
+            "ジョ"
+        ],
+        "meanings": [
+            "beginning",
+            "chance",
+            "incidentally",
+            "occasion",
+            "order",
+            "precedence",
+            "preface"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "弁": {
+        "kanji": "弁",
+        "kun_readings": [
+            "あらそ.う",
+            "かんむり",
+            "はなびら",
+            "わ.ける",
+            "わきま.える"
+        ],
+        "on_readings": [
+            "ヘン",
+            "ベン"
+        ],
+        "meanings": [
+            "braid",
+            "conical cap",
+            "dialect",
+            "discrimination",
+            "dispose of",
+            "distinguish",
+            "petal",
+            "speech",
+            "valve"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "張": {
+        "kanji": "張",
+        "kun_readings": [
+            "-は.り",
+            "-ば.り",
+            "は.る"
+        ],
+        "on_readings": [
+            "チョウ"
+        ],
+        "meanings": [
+            "counter for bows & stringed instruments",
+            "put up (tent)",
+            "spread",
+            "stretch"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "往": {
+        "kanji": "往",
+        "kun_readings": [
+            "い.く",
+            "いにしえ",
+            "さき.に",
+            "ゆ.く"
+        ],
+        "on_readings": [
+            "オウ"
+        ],
+        "meanings": [
+            "before",
+            "chase away",
+            "formerly",
+            "going",
+            "journey",
+            "let go",
+            "travel"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "復": {
+        "kanji": "復",
+        "kun_readings": [
+            "また"
+        ],
+        "on_readings": [
+            "フク"
+        ],
+        "meanings": [
+            "restore",
+            "resume",
+            "return to",
+            "revert"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "徳": {
+        "kanji": "徳",
+        "kun_readings": [],
+        "on_readings": [
+            "トク"
+        ],
+        "meanings": [
+            "benevolence",
+            "commanding respect",
+            "goodness",
+            "virtue"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "志": {
+        "kanji": "志",
+        "kun_readings": [
+            "こころざ.す",
+            "こころざし",
+            "シリング"
+        ],
+        "on_readings": [
+            "シ"
+        ],
+        "meanings": [
+            "aspire",
+            "hopes",
+            "intention",
+            "motive",
+            "plan",
+            "resolve",
+            "shilling"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "応": {
+        "kanji": "応",
+        "kun_readings": [
+            "あた.る",
+            "こた.える",
+            "まさに"
+        ],
+        "on_readings": [
+            "-ノウ",
+            "オウ",
+            "ヨウ"
+        ],
+        "meanings": [
+            "OK",
+            "accept",
+            "answer",
+            "apply",
+            "reply",
+            "yes"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "快": {
+        "kanji": "快",
+        "kun_readings": [
+            "こころよ.い"
+        ],
+        "on_readings": [
+            "カイ"
+        ],
+        "meanings": [
+            "agreeable",
+            "cheerful",
+            "comfortable",
+            "pleasant"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "性": {
+        "kanji": "性",
+        "kun_readings": [
+            "さが"
+        ],
+        "on_readings": [
+            "ショウ",
+            "セイ"
+        ],
+        "meanings": [
+            "gender",
+            "nature",
+            "sex"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "恩": {
+        "kanji": "恩",
+        "kun_readings": [],
+        "on_readings": [
+            "オン"
+        ],
+        "meanings": [
+            "benefit",
+            "blessing",
+            "favor",
+            "goodness",
+            "grace",
+            "kindness",
+            "mercy"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "情": {
+        "kanji": "情",
+        "kun_readings": [
+            "なさ.け"
+        ],
+        "on_readings": [
+            "ジョウ",
+            "セイ"
+        ],
+        "meanings": [
+            "circumstances",
+            "emotion",
+            "facts",
+            "feelings",
+            "passion",
+            "sympathy"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "態": {
+        "kanji": "態",
+        "kun_readings": [
+            "わざ.と"
+        ],
+        "on_readings": [
+            "タイ"
+        ],
+        "meanings": [
+            "appearance",
+            "attitude",
+            "condition",
+            "figure",
+            "voice (of verbs)"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "慣": {
+        "kanji": "慣",
+        "kun_readings": [
+            "な.らす",
+            "な.れる"
+        ],
+        "on_readings": [
+            "カン"
+        ],
+        "meanings": [
+            "accustomed",
+            "become experienced",
+            "get used to"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "承": {
+        "kanji": "承",
+        "kun_readings": [
+            "う.ける",
+            "うけたまわ.る"
+        ],
+        "on_readings": [
+            "ショウ",
+            "ジョウ"
+        ],
+        "meanings": [
+            "acquiesce",
+            "be informed",
+            "hear",
+            "listen to",
+            "receive"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "技": {
+        "kanji": "技",
+        "kun_readings": [
+            "わざ"
+        ],
+        "on_readings": [
+            "ギ"
+        ],
+        "meanings": [
+            "ability",
+            "art",
+            "arts",
+            "craft",
+            "feat",
+            "performance",
+            "skill",
+            "vocation"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "招": {
+        "kanji": "招",
+        "kun_readings": [
+            "まね.く"
+        ],
+        "on_readings": [
+            "ショウ"
+        ],
+        "meanings": [
+            "beckon",
+            "engage",
+            "invite",
+            "summon"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "授": {
+        "kanji": "授",
+        "kun_readings": [
+            "さず.かる",
+            "さず.ける"
+        ],
+        "on_readings": [
+            "ジュ"
+        ],
+        "meanings": [
+            "confer",
+            "grant",
+            "impart",
+            "instruct"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "採": {
+        "kanji": "採",
+        "kun_readings": [
+            "と.る"
+        ],
+        "on_readings": [
+            "サイ"
+        ],
+        "meanings": [
+            "fetch",
+            "pick",
+            "take",
+            "take up"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "接": {
+        "kanji": "接",
+        "kun_readings": [
+            "つ.ぐ"
+        ],
+        "on_readings": [
+            "ショウ",
+            "セツ"
+        ],
+        "meanings": [
+            "adjoin",
+            "contact",
+            "piece together",
+            "touch"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "提": {
+        "kanji": "提",
+        "kun_readings": [
+            "さ.げる"
+        ],
+        "on_readings": [
+            "ダイ",
+            "チョウ",
+            "テイ"
+        ],
+        "meanings": [
+            "carry in hand",
+            "propose",
+            "take along"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "損": {
+        "kanji": "損",
+        "kun_readings": [
+            "-そこ.なう",
+            "-そこ.ねる",
+            "そこ.なう",
+            "そこ.ねる",
+            "そこな.う"
+        ],
+        "on_readings": [
+            "ソン"
+        ],
+        "meanings": [
+            "damage",
+            "disadvantage",
+            "hurt",
+            "injure",
+            "loss"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "支": {
+        "kanji": "支",
+        "kun_readings": [
+            "か.う",
+            "ささ.える",
+            "つか.える"
+        ],
+        "on_readings": [
+            "シ"
+        ],
+        "meanings": [
+            "branch",
+            "branch radical (no. 65)",
+            "support",
+            "sustain"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "政": {
+        "kanji": "政",
+        "kun_readings": [
+            "まつりごと",
+            "まん"
+        ],
+        "on_readings": [
+            "ショウ",
+            "セイ"
+        ],
+        "meanings": [
+            "government",
+            "politics"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "故": {
+        "kanji": "故",
+        "kun_readings": [
+            "ふる.い",
+            "もと",
+            "ゆえ"
+        ],
+        "on_readings": [
+            "コ"
+        ],
+        "meanings": [
+            "cause",
+            "circumstances",
+            "consequently",
+            "especially",
+            "happenstance",
+            "intentionally",
+            "reason",
+            "the late",
+            "therefore"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "敵": {
+        "kanji": "敵",
+        "kun_readings": [
+            "あだ",
+            "かたき",
+            "かな.う"
+        ],
+        "on_readings": [
+            "テキ"
+        ],
+        "meanings": [
+            "enemy",
+            "foe",
+            "opponent"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "断": {
+        "kanji": "断",
+        "kun_readings": [
+            "ことわ.る",
+            "さだ.める",
+            "た.つ"
+        ],
+        "on_readings": [
+            "ダン"
+        ],
+        "meanings": [
+            "apologize",
+            "cutting",
+            "decision",
+            "decline",
+            "dismiss",
+            "judgement",
+            "prohibit",
+            "refuse",
+            "severance",
+            "warn"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "旧": {
+        "kanji": "旧",
+        "kun_readings": [
+            "ふる.い",
+            "もと"
+        ],
+        "on_readings": [
+            "キュウ"
+        ],
+        "meanings": [
+            "ex-",
+            "former",
+            "old friend",
+            "old things",
+            "old times"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "易": {
+        "kanji": "易",
+        "kun_readings": [
+            "やさ.しい",
+            "やす.い"
+        ],
+        "on_readings": [
+            "イ",
+            "エキ"
+        ],
+        "meanings": [
+            "divination",
+            "easy",
+            "fortune-telling",
+            "ready to",
+            "simple"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "暴": {
+        "kanji": "暴",
+        "kun_readings": [
+            "あば.く",
+            "あば.れる"
+        ],
+        "on_readings": [
+            "バク",
+            "ボウ"
+        ],
+        "meanings": [
+            "cruelty",
+            "force",
+            "fret",
+            "outburst",
+            "outrage",
+            "rave",
+            "violence"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "条": {
+        "kanji": "条",
+        "kun_readings": [
+            "えだ",
+            "すじ"
+        ],
+        "on_readings": [
+            "ジョウ",
+            "チョウ",
+            "デキ"
+        ],
+        "meanings": [
+            "article",
+            "clause",
+            "counter for articles, clauses, paragraphs, etc.",
+            "item",
+            "streak",
+            "stripe",
+            "twig"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "枝": {
+        "kanji": "枝",
+        "kun_readings": [
+            "えだ"
+        ],
+        "on_readings": [
+            "シ"
+        ],
+        "meanings": [
+            "bough",
+            "branch",
+            "counter for branches",
+            "limb",
+            "twig"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "査": {
+        "kanji": "査",
+        "kun_readings": [],
+        "on_readings": [
+            "サ"
+        ],
+        "meanings": [
+            "investigate"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "格": {
+        "kanji": "格",
+        "kun_readings": [],
+        "on_readings": [
+            "カク",
+            "キャク",
+            "コウ",
+            "ゴウ"
+        ],
+        "meanings": [
+            "capacity",
+            "case (law, grammar)",
+            "character",
+            "rank",
+            "status"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "桜": {
+        "kanji": "桜",
+        "kun_readings": [
+            "さくら"
+        ],
+        "on_readings": [
+            "オウ",
+            "ヨウ"
+        ],
+        "meanings": [
+            "cherry"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "検": {
+        "kanji": "検",
+        "kun_readings": [
+            "しら.べる"
+        ],
+        "on_readings": [
+            "ケン"
+        ],
+        "meanings": [
+            "examination",
+            "investigate"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "構": {
+        "kanji": "構",
+        "kun_readings": [
+            "かま.う",
+            "かま.える"
+        ],
+        "on_readings": [
+            "コウ"
+        ],
+        "meanings": [
+            "appearance",
+            "build",
+            "posture",
+            "set up",
+            "stance"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "武": {
+        "kanji": "武",
+        "kun_readings": [
+            "たけ",
+            "たけ.し"
+        ],
+        "on_readings": [
+            "ブ",
+            "ム"
+        ],
+        "meanings": [
+            "arms",
+            "chivalry",
+            "military",
+            "warrior"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "比": {
+        "kanji": "比",
+        "kun_readings": [
+            "くら.べる"
+        ],
+        "on_readings": [
+            "ヒ"
+        ],
+        "meanings": [
+            "Philippines",
+            "compare",
+            "race",
+            "ratio"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "永": {
+        "kanji": "永",
+        "kun_readings": [
+            "なが.い"
+        ],
+        "on_readings": [
+            "エイ"
+        ],
+        "meanings": [
+            "eternity",
+            "lengthy",
+            "long"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "河": {
+        "kanji": "河",
+        "kun_readings": [
+            "かわ"
+        ],
+        "on_readings": [
+            "カ"
+        ],
+        "meanings": [
+            "river"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "液": {
+        "kanji": "液",
+        "kun_readings": [],
+        "on_readings": [
+            "エキ"
+        ],
+        "meanings": [
+            "fluid",
+            "juice",
+            "liquid",
+            "sap",
+            "secretion"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "混": {
+        "kanji": "混",
+        "kun_readings": [
+            "-ま.じり",
+            "こ.む",
+            "ま.ざる",
+            "ま.じる",
+            "ま.ぜる"
+        ],
+        "on_readings": [
+            "コン"
+        ],
+        "meanings": [
+            "blend",
+            "confuse",
+            "mix"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "減": {
+        "kanji": "減",
+        "kun_readings": [
+            "へ.らす",
+            "へ.る"
+        ],
+        "on_readings": [
+            "ゲン"
+        ],
+        "meanings": [
+            "curtail",
+            "decline",
+            "decrease",
+            "dwindle",
+            "get hungry",
+            "reduce"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "測": {
+        "kanji": "測",
+        "kun_readings": [
+            "はか.る"
+        ],
+        "on_readings": [
+            "ソク"
+        ],
+        "meanings": [
+            "fathom",
+            "measure",
+            "plan",
+            "scheme"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "準": {
+        "kanji": "準",
+        "kun_readings": [
+            "じゅん.じる",
+            "じゅん.ずる",
+            "なぞら.える",
+            "のり",
+            "ひと.しい",
+            "みずもり"
+        ],
+        "on_readings": [
+            "ジュン"
+        ],
+        "meanings": [
+            "conform",
+            "correspond to",
+            "imitate",
+            "proportionate to",
+            "semi-"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "演": {
+        "kanji": "演",
+        "kun_readings": [],
+        "on_readings": [
+            "エン"
+        ],
+        "meanings": [
+            "act",
+            "performance",
+            "play",
+            "render",
+            "stage"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "潔": {
+        "kanji": "潔",
+        "kun_readings": [
+            "いさぎよ.い"
+        ],
+        "on_readings": [
+            "ケツ"
+        ],
+        "meanings": [
+            "clean",
+            "gallant",
+            "pure",
+            "righteous",
+            "undefiled"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "災": {
+        "kanji": "災",
+        "kun_readings": [
+            "わざわ.い"
+        ],
+        "on_readings": [
+            "サイ"
+        ],
+        "meanings": [
+            "calamity",
+            "curse",
+            "disaster",
+            "evil",
+            "woe"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "燃": {
+        "kanji": "燃",
+        "kun_readings": [
+            "も.える",
+            "も.す",
+            "も.やす"
+        ],
+        "on_readings": [
+            "ネン"
+        ],
+        "meanings": [
+            "blaze",
+            "burn",
+            "glow"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "版": {
+        "kanji": "版",
+        "kun_readings": [],
+        "on_readings": [
+            "ハン"
+        ],
+        "meanings": [
+            "edition",
+            "impression",
+            "label",
+            "printing block",
+            "printing plate"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "犯": {
+        "kanji": "犯",
+        "kun_readings": [
+            "おか.す"
+        ],
+        "on_readings": [
+            "ハン",
+            "ボン"
+        ],
+        "meanings": [
+            "crime",
+            "offense",
+            "sin"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "状": {
+        "kanji": "状",
+        "kun_readings": [],
+        "on_readings": [
+            "ジョウ"
+        ],
+        "meanings": [
+            "appearance",
+            "circumstances",
+            "conditions",
+            "form",
+            "status quo"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "独": {
+        "kanji": "独",
+        "kun_readings": [
+            "ひと.り"
+        ],
+        "on_readings": [
+            "トク",
+            "ドク"
+        ],
+        "meanings": [
+            "Germany",
+            "alone",
+            "single",
+            "spontaneously"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "率": {
+        "kanji": "率",
+        "kun_readings": [
+            "ひき.いる"
+        ],
+        "on_readings": [
+            "シュツ",
+            "ソツ",
+            "リツ"
+        ],
+        "meanings": [
+            "%",
+            "command",
+            "factor",
+            "lead",
+            "proportion",
+            "rate",
+            "ratio",
+            "spearhead"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "現": {
+        "kanji": "現",
+        "kun_readings": [
+            "あらわ.す",
+            "あらわ.れる",
+            "うつ.つ",
+            "うつつ"
+        ],
+        "on_readings": [
+            "ゲン"
+        ],
+        "meanings": [
+            "actual",
+            "existing",
+            "present"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "留": {
+        "kanji": "留",
+        "kun_readings": [
+            "と.まる",
+            "と.める",
+            "とど.まる",
+            "とど.める",
+            "るうぶる"
+        ],
+        "on_readings": [
+            "リュウ",
+            "ル"
+        ],
+        "meanings": [
+            "detain",
+            "fasten",
+            "halt",
+            "stop"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "略": {
+        "kanji": "略",
+        "kun_readings": [
+            "おか.す",
+            "おさ.める",
+            "はか.る",
+            "はかりごと",
+            "はぶ.く",
+            "ほぼ"
+        ],
+        "on_readings": [
+            "リャク"
+        ],
+        "meanings": [
+            "abbreviation",
+            "capture",
+            "omission",
+            "outline",
+            "plunder",
+            "shorten"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "益": {
+        "kanji": "益",
+        "kun_readings": [
+            "ま.す"
+        ],
+        "on_readings": [
+            "エキ",
+            "ヤク"
+        ],
+        "meanings": [
+            "advantage",
+            "benefit",
+            "gain",
+            "profit"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "眼": {
+        "kanji": "眼",
+        "kun_readings": [
+            "まなこ",
+            "め"
+        ],
+        "on_readings": [
+            "ガン",
+            "ゲン"
+        ],
+        "meanings": [
+            "eyeball"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "破": {
+        "kanji": "破",
+        "kun_readings": [
+            "やぶ.る",
+            "やぶ.れる",
+            "わ.れる"
+        ],
+        "on_readings": [
+            "ハ"
+        ],
+        "meanings": [
+            "break",
+            "defeat",
+            "destroy",
+            "frustrate",
+            "rend",
+            "rip",
+            "tear"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "確": {
+        "kanji": "確",
+        "kun_readings": [
+            "たし.か",
+            "たし.かめる"
+        ],
+        "on_readings": [
+            "カク",
+            "コウ"
+        ],
+        "meanings": [
+            "assurance",
+            "clear",
+            "confirm",
+            "evident",
+            "firm",
+            "hard",
+            "solid",
+            "tight"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "示": {
+        "kanji": "示",
+        "kun_readings": [
+            "しめ.す"
+        ],
+        "on_readings": [
+            "シ",
+            "ジ"
+        ],
+        "meanings": [
+            "display",
+            "express",
+            "indicate",
+            "point out",
+            "show"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "祖": {
+        "kanji": "祖",
+        "kun_readings": [],
+        "on_readings": [
+            "ソ"
+        ],
+        "meanings": [
+            "ancestor",
+            "founder",
+            "pioneer"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "禁": {
+        "kanji": "禁",
+        "kun_readings": [],
+        "on_readings": [
+            "キン"
+        ],
+        "meanings": [
+            "ban",
+            "forbid",
+            "prohibition"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "移": {
+        "kanji": "移",
+        "kun_readings": [
+            "うつ.す",
+            "うつ.る"
+        ],
+        "on_readings": [
+            "イ"
+        ],
+        "meanings": [
+            "catch (cold, fire)",
+            "change",
+            "drift",
+            "move",
+            "pass into",
+            "shift"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "程": {
+        "kanji": "程",
+        "kun_readings": [
+            "-ほど",
+            "ほど"
+        ],
+        "on_readings": [
+            "テイ"
+        ],
+        "meanings": [
+            "amount",
+            "degree",
+            "distance",
+            "extent",
+            "formula",
+            "law",
+            "limits"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "税": {
+        "kanji": "税",
+        "kun_readings": [],
+        "on_readings": [
+            "ゼイ"
+        ],
+        "meanings": [
+            "duty",
+            "tax"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "築": {
+        "kanji": "築",
+        "kun_readings": [
+            "きず.く"
+        ],
+        "on_readings": [
+            "チク"
+        ],
+        "meanings": [
+            "build",
+            "construct",
+            "fabricate"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "精": {
+        "kanji": "精",
+        "kun_readings": [
+            "くわ.しい",
+            "しら.げる"
+        ],
+        "on_readings": [
+            "ショウ",
+            "セイ"
+        ],
+        "meanings": [
+            "energy",
+            "excellence",
+            "fairy",
+            "ghost",
+            "purity",
+            "refined",
+            "semen",
+            "skill",
+            "vitality"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "素": {
+        "kanji": "素",
+        "kun_readings": [
+            "もと"
+        ],
+        "on_readings": [
+            "ス",
+            "ソ"
+        ],
+        "meanings": [
+            "elementary",
+            "naked",
+            "principle",
+            "uncovered"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "経": {
+        "kanji": "経",
+        "kun_readings": [
+            "た.つ",
+            "たていと",
+            "のり",
+            "はか.る",
+            "へ.る"
+        ],
+        "on_readings": [
+            "キョウ",
+            "キン",
+            "ケイ"
+        ],
+        "meanings": [
+            "expire",
+            "longitude",
+            "pass thru",
+            "sutra",
+            "warp"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "統": {
+        "kanji": "統",
+        "kun_readings": [
+            "す.べる",
+            "ほび.る"
+        ],
+        "on_readings": [
+            "トウ"
+        ],
+        "meanings": [
+            "governing",
+            "overall",
+            "relationship",
+            "ruling"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "絶": {
+        "kanji": "絶",
+        "kun_readings": [
+            "た.える",
+            "た.つ",
+            "た.やす"
+        ],
+        "on_readings": [
+            "ゼツ"
+        ],
+        "meanings": [
+            "abstain",
+            "be beyond",
+            "cut off",
+            "discontinue",
+            "interrupt",
+            "peerless",
+            "sever",
+            "suppress",
+            "unparalleled",
+            "without match"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "綿": {
+        "kanji": "綿",
+        "kun_readings": [
+            "わた"
+        ],
+        "on_readings": [
+            "メン"
+        ],
+        "meanings": [
+            "cotton"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "総": {
+        "kanji": "総",
+        "kun_readings": [
+            "す.べて",
+            "すべ.て",
+            "ふさ"
+        ],
+        "on_readings": [
+            "ソウ"
+        ],
+        "meanings": [
+            "all",
+            "full",
+            "general",
+            "total",
+            "whole"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "編": {
+        "kanji": "編",
+        "kun_readings": [
+            "-あ.み",
+            "あ.む"
+        ],
+        "on_readings": [
+            "ヘン"
+        ],
+        "meanings": [
+            "braid",
+            "compilation",
+            "completed poem",
+            "editing",
+            "knit",
+            "part of a book",
+            "plait",
+            "twist"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "績": {
+        "kanji": "績",
+        "kun_readings": [],
+        "on_readings": [
+            "セキ"
+        ],
+        "meanings": [
+            "achievements",
+            "exploits",
+            "unreeling cocoons"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "織": {
+        "kanji": "織",
+        "kun_readings": [
+            "-お.り",
+            "-おり",
+            "お.り",
+            "お.る",
+            "おり"
+        ],
+        "on_readings": [
+            "シキ",
+            "ショク"
+        ],
+        "meanings": [
+            "fabric",
+            "weave"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "罪": {
+        "kanji": "罪",
+        "kun_readings": [
+            "つみ"
+        ],
+        "on_readings": [
+            "ザイ"
+        ],
+        "meanings": [
+            "blame",
+            "crime",
+            "fault",
+            "guilt",
+            "offense",
+            "sin"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "群": {
+        "kanji": "群",
+        "kun_readings": [
+            "む.れ",
+            "む.れる",
+            "むら",
+            "むら.がる"
+        ],
+        "on_readings": [
+            "グン"
+        ],
+        "meanings": [
+            "cluster",
+            "crowd",
+            "flock",
+            "group",
+            "herd",
+            "swarm"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "義": {
+        "kanji": "義",
+        "kun_readings": [],
+        "on_readings": [
+            "ギ"
+        ],
+        "meanings": [
+            "honor",
+            "justice",
+            "loyalty",
+            "meaning",
+            "morality",
+            "righteousness"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "耕": {
+        "kanji": "耕",
+        "kun_readings": [
+            "たがや.す"
+        ],
+        "on_readings": [
+            "コウ"
+        ],
+        "meanings": [
+            "cultivate",
+            "plow",
+            "till"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "職": {
+        "kanji": "職",
+        "kun_readings": [],
+        "on_readings": [
+            "ショク",
+            "ソク"
+        ],
+        "meanings": [
+            "employment",
+            "post",
+            "work"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "肥": {
+        "kanji": "肥",
+        "kun_readings": [
+            "こ.える",
+            "こ.やし",
+            "こ.やす",
+            "こえ",
+            "ふと.る"
+        ],
+        "on_readings": [
+            "ヒ"
+        ],
+        "meanings": [
+            "fertile",
+            "fertilizer",
+            "get fat",
+            "manure",
+            "pamper"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "能": {
+        "kanji": "能",
+        "kun_readings": [
+            "あた.う",
+            "よ.く"
+        ],
+        "on_readings": [
+            "ノウ"
+        ],
+        "meanings": [
+            "ability",
+            "capacity",
+            "skill",
+            "talent"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "興": {
+        "kanji": "興",
+        "kun_readings": [
+            "おこ.す",
+            "おこ.る"
+        ],
+        "on_readings": [
+            "キョウ",
+            "コウ"
+        ],
+        "meanings": [
+            "entertain",
+            "interest",
+            "pleasure",
+            "retrieve",
+            "revive"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "舌": {
+        "kanji": "舌",
+        "kun_readings": [
+            "した"
+        ],
+        "on_readings": [
+            "ゼツ"
+        ],
+        "meanings": [
+            "clapper",
+            "reed",
+            "tongue"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "舎": {
+        "kanji": "舎",
+        "kun_readings": [
+            "やど.る"
+        ],
+        "on_readings": [
+            "シャ",
+            "セキ"
+        ],
+        "meanings": [
+            "cottage",
+            "house",
+            "hut",
+            "inn",
+            "mansion"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "術": {
+        "kanji": "術",
+        "kun_readings": [
+            "すべ"
+        ],
+        "on_readings": [
+            "ジュツ"
+        ],
+        "meanings": [
+            "art",
+            "magic",
+            "means",
+            "resources",
+            "skill",
+            "technique",
+            "trick"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "衛": {
+        "kanji": "衛",
+        "kun_readings": [],
+        "on_readings": [
+            "エ",
+            "エイ"
+        ],
+        "meanings": [
+            "defense",
+            "protection"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "製": {
+        "kanji": "製",
+        "kun_readings": [],
+        "on_readings": [
+            "セイ"
+        ],
+        "meanings": [
+            "made in...",
+            "manufacture"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "複": {
+        "kanji": "複",
+        "kun_readings": [],
+        "on_readings": [
+            "フク"
+        ],
+        "meanings": [
+            "compound",
+            "double",
+            "duplicate",
+            "multiple"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "規": {
+        "kanji": "規",
+        "kun_readings": [],
+        "on_readings": [
+            "キ"
+        ],
+        "meanings": [
+            "measure",
+            "standard"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "解": {
+        "kanji": "解",
+        "kun_readings": [
+            "さと.る",
+            "と.かす",
+            "と.く",
+            "と.ける",
+            "ほど.く",
+            "ほど.ける",
+            "わか.る"
+        ],
+        "on_readings": [
+            "カイ",
+            "ゲ"
+        ],
+        "meanings": [
+            "absolve",
+            "answer",
+            "cancel",
+            "explain",
+            "explanation",
+            "key",
+            "minute",
+            "notes",
+            "solve",
+            "understanding",
+            "undo",
+            "unravel",
+            "untie"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "設": {
+        "kanji": "設",
+        "kun_readings": [
+            "もう.ける"
+        ],
+        "on_readings": [
+            "セツ"
+        ],
+        "meanings": [
+            "establishment",
+            "prepare",
+            "provision"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "許": {
+        "kanji": "許",
+        "kun_readings": [
+            "もと",
+            "ゆる.す"
+        ],
+        "on_readings": [
+            "キョ"
+        ],
+        "meanings": [
+            "approve",
+            "permit"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "証": {
+        "kanji": "証",
+        "kun_readings": [
+            "あかし"
+        ],
+        "on_readings": [
+            "ショウ"
+        ],
+        "meanings": [
+            "certificate",
+            "evidence",
+            "proof"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "評": {
+        "kanji": "評",
+        "kun_readings": [],
+        "on_readings": [
+            "ヒョウ"
+        ],
+        "meanings": [
+            "comment",
+            "criticism",
+            "evaluate"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "講": {
+        "kanji": "講",
+        "kun_readings": [],
+        "on_readings": [
+            "コウ"
+        ],
+        "meanings": [
+            "association",
+            "club",
+            "lecture"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "謝": {
+        "kanji": "謝",
+        "kun_readings": [
+            "あやま.る"
+        ],
+        "on_readings": [
+            "シャ"
+        ],
+        "meanings": [
+            "apologize",
+            "refuse",
+            "thank"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "識": {
+        "kanji": "識",
+        "kun_readings": [
+            "し.る",
+            "しる.す"
+        ],
+        "on_readings": [
+            "シキ"
+        ],
+        "meanings": [
+            "discriminating",
+            "know",
+            "write"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "護": {
+        "kanji": "護",
+        "kun_readings": [
+            "まも.る"
+        ],
+        "on_readings": [
+            "ゴ"
+        ],
+        "meanings": [
+            "protect",
+            "safeguard"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "豊": {
+        "kanji": "豊",
+        "kun_readings": [
+            "とよ",
+            "ゆた.か"
+        ],
+        "on_readings": [
+            "ブ",
+            "ホウ"
+        ],
+        "meanings": [
+            "bountiful",
+            "excellent",
+            "rich"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "財": {
+        "kanji": "財",
+        "kun_readings": [
+            "たから"
+        ],
+        "on_readings": [
+            "サイ",
+            "ザイ",
+            "ゾク"
+        ],
+        "meanings": [
+            "assets",
+            "money",
+            "property",
+            "wealth"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "貧": {
+        "kanji": "貧",
+        "kun_readings": [
+            "まず.しい"
+        ],
+        "on_readings": [
+            "ヒン",
+            "ビン"
+        ],
+        "meanings": [
+            "poor",
+            "poverty"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "責": {
+        "kanji": "責",
+        "kun_readings": [
+            "せ.める"
+        ],
+        "on_readings": [
+            "セキ"
+        ],
+        "meanings": [
+            "blame",
+            "censure",
+            "condemn"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "貸": {
+        "kanji": "貸",
+        "kun_readings": [
+            "か.し-",
+            "か.す",
+            "かし-"
+        ],
+        "on_readings": [
+            "タイ"
+        ],
+        "meanings": [
+            "lend"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "貿": {
+        "kanji": "貿",
+        "kun_readings": [],
+        "on_readings": [
+            "ボウ"
+        ],
+        "meanings": [
+            "exchange",
+            "trade"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "賀": {
+        "kanji": "賀",
+        "kun_readings": [],
+        "on_readings": [
+            "ガ"
+        ],
+        "meanings": [
+            "congratulations",
+            "joy"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "資": {
+        "kanji": "資",
+        "kun_readings": [],
+        "on_readings": [
+            "シ"
+        ],
+        "meanings": [
+            "assets",
+            "be conducive to",
+            "capital",
+            "contribute to",
+            "data",
+            "funds",
+            "resources"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "賛": {
+        "kanji": "賛",
+        "kun_readings": [
+            "たす.ける",
+            "たた.える"
+        ],
+        "on_readings": [
+            "サン"
+        ],
+        "meanings": [
+            "agree with",
+            "approve",
+            "assist",
+            "praise",
+            "title or inscription on picture"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "質": {
+        "kanji": "質",
+        "kun_readings": [
+            "ただ.す",
+            "たち",
+            "もと",
+            "わりふ"
+        ],
+        "on_readings": [
+            "シチ",
+            "シツ",
+            "チ"
+        ],
+        "meanings": [
+            "matter",
+            "quality",
+            "substance",
+            "temperament"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "輸": {
+        "kanji": "輸",
+        "kun_readings": [],
+        "on_readings": [
+            "シュ",
+            "ユ"
+        ],
+        "meanings": [
+            "be inferior",
+            "send",
+            "transport"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "述": {
+        "kanji": "述",
+        "kun_readings": [
+            "の.べる"
+        ],
+        "on_readings": [
+            "ジュツ"
+        ],
+        "meanings": [
+            "mention",
+            "relate",
+            "speak",
+            "state"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "迷": {
+        "kanji": "迷",
+        "kun_readings": [
+            "まよ.う"
+        ],
+        "on_readings": [
+            "メイ"
+        ],
+        "meanings": [
+            "astray",
+            "be perplexed",
+            "err",
+            "illusion",
+            "in doubt",
+            "lost"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "退": {
+        "kanji": "退",
+        "kun_readings": [
+            "しりぞ.く",
+            "しりぞ.ける",
+            "ど.く",
+            "の.く",
+            "の.ける",
+            "ひ.く"
+        ],
+        "on_readings": [
+            "タイ"
+        ],
+        "meanings": [
+            "expel",
+            "reject",
+            "repel",
+            "resign",
+            "retire",
+            "retreat",
+            "withdraw"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "逆": {
+        "kanji": "逆",
+        "kun_readings": [
+            "さか",
+            "さか.さ",
+            "さか.らう"
+        ],
+        "on_readings": [
+            "ギャク",
+            "ゲキ"
+        ],
+        "meanings": [
+            "inverted",
+            "opposite",
+            "reverse",
+            "wicked"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "造": {
+        "kanji": "造",
+        "kun_readings": [
+            "-づく.り",
+            "つく.り",
+            "つく.る"
+        ],
+        "on_readings": [
+            "ゾウ"
+        ],
+        "meanings": [
+            "create",
+            "make",
+            "physique",
+            "structure"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "過": {
+        "kanji": "過",
+        "kun_readings": [
+            "あやま.ち",
+            "あやま.つ",
+            "す.ぎる",
+            "す.ごす",
+            "よ.ぎる",
+            "よぎ.る"
+        ],
+        "on_readings": [
+            "カ"
+        ],
+        "meanings": [
+            "error",
+            "exceed",
+            "go beyond",
+            "overdo"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "適": {
+        "kanji": "適",
+        "kun_readings": [
+            "かな.う"
+        ],
+        "on_readings": [
+            "テキ"
+        ],
+        "meanings": [
+            "capable",
+            "occasional",
+            "qualified",
+            "rare",
+            "suitable"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "酸": {
+        "kanji": "酸",
+        "kun_readings": [
+            "す.い"
+        ],
+        "on_readings": [
+            "サン"
+        ],
+        "meanings": [
+            "acid",
+            "bitterness",
+            "sour",
+            "tart"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "鉱": {
+        "kanji": "鉱",
+        "kun_readings": [
+            "あらがね"
+        ],
+        "on_readings": [
+            "コウ"
+        ],
+        "meanings": [
+            "mineral",
+            "ore"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "銅": {
+        "kanji": "銅",
+        "kun_readings": [
+            "あかがね"
+        ],
+        "on_readings": [
+            "ドウ"
+        ],
+        "meanings": [
+            "copper"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "銭": {
+        "kanji": "銭",
+        "kun_readings": [
+            "すき",
+            "ぜに"
+        ],
+        "on_readings": [
+            "セン",
+            "ゼン"
+        ],
+        "meanings": [
+            ".01 yen",
+            "coin",
+            "money"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "防": {
+        "kanji": "防",
+        "kun_readings": [
+            "ふせ.ぐ"
+        ],
+        "on_readings": [
+            "ボウ"
+        ],
+        "meanings": [
+            "defend",
+            "protect",
+            "resist",
+            "ward off"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "限": {
+        "kanji": "限",
+        "kun_readings": [
+            "-かぎ.り",
+            "かぎ.り",
+            "かぎ.る"
+        ],
+        "on_readings": [
+            "ゲン"
+        ],
+        "meanings": [
+            "limit",
+            "restrict",
+            "to best of ability"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "険": {
+        "kanji": "険",
+        "kun_readings": [
+            "けわ.しい"
+        ],
+        "on_readings": [
+            "ケン"
+        ],
+        "meanings": [
+            "impregnable position",
+            "inaccessible place",
+            "precipitous",
+            "sharp eyes",
+            "steep place"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "際": {
+        "kanji": "際",
+        "kun_readings": [
+            "-ぎわ",
+            "きわ"
+        ],
+        "on_readings": [
+            "サイ"
+        ],
+        "meanings": [
+            "adventurous",
+            "dangerous",
+            "edge",
+            "indecent",
+            "occasion",
+            "side",
+            "time",
+            "verge",
+            "when"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "雑": {
+        "kanji": "雑",
+        "kun_readings": [
+            "まじ.える",
+            "まじ.る"
+        ],
+        "on_readings": [
+            "ザツ",
+            "ゾウ"
+        ],
+        "meanings": [
+            "miscellaneous"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "非": {
+        "kanji": "非",
+        "kun_readings": [
+            "あら.ず"
+        ],
+        "on_readings": [
+            "ヒ"
+        ],
+        "meanings": [
+            "injustice",
+            "mistake",
+            "negative",
+            "non-",
+            "un-"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "預": {
+        "kanji": "預",
+        "kun_readings": [
+            "あず.かる",
+            "あず.ける"
+        ],
+        "on_readings": [
+            "ヨ"
+        ],
+        "meanings": [
+            "custody",
+            "deposit",
+            "entrust to",
+            "leave with"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "領": {
+        "kanji": "領",
+        "kun_readings": [
+            "えり"
+        ],
+        "on_readings": [
+            "リョウ"
+        ],
+        "meanings": [
+            "dominion",
+            "fief",
+            "jurisdiction",
+            "reign",
+            "territory"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "額": {
+        "kanji": "額",
+        "kun_readings": [
+            "ひたい"
+        ],
+        "on_readings": [
+            "ガク"
+        ],
+        "meanings": [
+            "amount",
+            "forehead",
+            "framed picture",
+            "plaque",
+            "sum",
+            "tablet",
+            "volume"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    },
+    "飼": {
+        "kanji": "飼",
+        "kun_readings": [
+            "か.う"
+        ],
+        "on_readings": [
+            "シ"
+        ],
+        "meanings": [
+            "domesticate",
+            "feed",
+            "keep",
+            "raise"
+        ],
+        "srs": "0|2025-08-28,0|2025-08-28,0|2025-08-28"
+    }
+}
